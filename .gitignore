@@ -1,0 +1,14 @@
+# Histórico gerado pela aplicação
+historico_sentimentos.csv
+
+# VS Code
+.vscode/
+
+# Ambientes virtuais
+venv/
+.conda/
+anaconda3/
+
+# Cache Python
+__pycache__/
+*.pyc
